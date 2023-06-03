@@ -16,7 +16,10 @@
 Eğer bu projeye katkıda bulunmak isterseniz, aşağıdaki adımları izleyebilirsiniz:
 
 ### Proje deposunu fork edin.
-Yeni bir dal (branch) oluşturun: git checkout -b yeni-ozellik
-Yaptığınız değişiklikleri yapın ve commit'leyin: `git commit -am 'Yeni özellik: A
+- Yeni bir dal (branch) oluşturun: git checkout -b yeni-ozellik
+- Yaptığınız değişiklikleri yapın ve commit'leyin: `git commit -am 'Yeni özellik: A
+
+
+### `screen`
 
 ![](screen.gif)
